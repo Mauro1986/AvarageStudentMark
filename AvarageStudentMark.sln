@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBiggestNumber", "FindBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageStudentMarkMETHODS", "AverageStudentMarkMETHODS\AverageStudentMarkMETHODS.csproj", "{A3EE0A3E-1886-446F-9E07-A745F1C0386B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tryout cleaning up with methods", "Tryout cleaning up with methods\Tryout cleaning up with methods.csproj", "{83F0C26D-5AA9-447C-B15F-6CBBD9DDDF68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tryout, cleaning up with methods", "Tryout, cleaning up with methods\Tryout, cleaning up with methods.csproj", "{FCC01048-1CA3-4261-9B92-94AA7C3B10DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A3EE0A3E-1886-446F-9E07-A745F1C0386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3EE0A3E-1886-446F-9E07-A745F1C0386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3EE0A3E-1886-446F-9E07-A745F1C0386B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F0C26D-5AA9-447C-B15F-6CBBD9DDDF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F0C26D-5AA9-447C-B15F-6CBBD9DDDF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F0C26D-5AA9-447C-B15F-6CBBD9DDDF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F0C26D-5AA9-447C-B15F-6CBBD9DDDF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC01048-1CA3-4261-9B92-94AA7C3B10DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC01048-1CA3-4261-9B92-94AA7C3B10DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC01048-1CA3-4261-9B92-94AA7C3B10DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC01048-1CA3-4261-9B92-94AA7C3B10DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
